@@ -1,6 +1,6 @@
 # Optometrist-Website
 Responsive Website for Optometrist
-https://spectraloptometry.netlify.app/
+![spectral](https://spectraloptometry.netlify.app/)
 
 ### Introduction
 #### Responsive website for optometrist office. Multiple breakpoints allow users to access on different types of devices with ease. 
