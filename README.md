@@ -12,4 +12,4 @@ Responsive Website for Optometrist
 - JQuery
 
 ![optometrist](https://github.com/zaynahshabo/Optometry-Website/blob/main/Optometrist%20Website%20Design.gif)
-![optometrist}(https://github.com/zaynahshabo/Optometry-Website/blob/main/screenshot.png)
+![optometrist](https://github.com/zaynahshabo/Optometry-Website/blob/main/screenshot.png)
